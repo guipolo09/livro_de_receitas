@@ -1,2 +1,3 @@
-# livro_de_receitas
+# Livro de receitas
+
 Repositório criado para aprender 
